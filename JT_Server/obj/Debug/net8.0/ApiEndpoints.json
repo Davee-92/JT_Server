@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "JT_Server.Controllers.TaskController",
+    "Method": "ReceiveData",
+    "RelativePath": "api/Task",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "JT_Server.Models.TaskData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
